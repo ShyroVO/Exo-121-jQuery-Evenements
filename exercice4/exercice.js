@@ -1,3 +1,3 @@
-$("selector").event(function(){
+$("input").onkeypress(function(){
     $(this).hide();
 });
